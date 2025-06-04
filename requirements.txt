@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+requests
+python-dotenv
+tavily-python
+typing-extensions
+pydantic
+aiohttp

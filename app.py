@@ -39,7 +39,7 @@ class LMStudioLLM(LLM):
     """Custom LLM wrapper for LM Studio with improved error handling"""
     
     base_url: str = "http://localhost:1234/v1"
-    model: str = "microsoft/Phi-4-mini-reasoning"
+    model: str = "google/gemma-3-1b"
     temperature: float = 0.7
     max_tokens: int = 2000
     timeout: int = 180

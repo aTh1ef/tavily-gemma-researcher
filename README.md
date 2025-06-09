@@ -44,8 +44,8 @@ Live web results come from Tavily Search, curated and formatted into source‑ri
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tavily-gemma-research-helper.git
-cd tavily-gemma-research-helper
+git clone https://github.com/aTh1ef/tavily-gemma-researcher.git
+cd tavily-gemma-researcher
 ```
 
 ### Step 2: Install Dependencies

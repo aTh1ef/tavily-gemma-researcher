@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ## 🤖 LM Studio Setup
 
-To run Gemma 3B locally:
+To run gemma-3-1b locally:
 
 1. Install [LM Studio](https://lmstudio.ai/)
 2. In LM Studio → **Models** tab, search for **`google/gemma-3-1b`**

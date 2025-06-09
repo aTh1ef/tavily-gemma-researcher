@@ -31,7 +31,7 @@ LangGraph powers the structured research pipeline: planning → searching → sy
 ### 🤖 Local Reasoning via LM Studio (google/gemma-3-1b)
 
 **LLM used:** `google/gemma-3-1b`, served via LM Studio’s OpenAI‑compatible API mode.
-Why Gemma 3B? It’s fast, instruction‑tuned, and excels at structured thought processes.
+Why this model? It’s fast, instruction‑tuned, and excels at structured thought processes.
 
 ### 🌐 Search & Data via Tavily API
 

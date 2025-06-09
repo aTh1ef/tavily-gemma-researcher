@@ -112,7 +112,7 @@ Under the hood:
 
 ---
 
-## 🧑‍💻 What You Need to Do
+## 💻 What You Need to Do
 
 Before launching:
 
